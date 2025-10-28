@@ -1,20 +1,20 @@
-# 🤖 AI Agent using n8n + ChatGPT
+# AI Agent using n8n + ChatGPT
 
 This project is a custom AI Agent built using **n8n** and **OpenAI’s ChatGPT model**.  
 It can respond intelligently to user queries, personalize responses, and remember the creator’s name.
 
 ---
 
-## 🚀 Features
-- 💬 Natural conversation using ChatGPT
-- 🧍 Personalized response (“Who made you?” → “Krish Garg”)
-- 🧠 Extendable with memory, tools, and automation
-- 🌐 Can connect to APIs like weather, Google Sheets, or Gmail
-- 🪄 Simple setup with n8n — no coding required
+##  Features
+-  Natural conversation using ChatGPT
+-  Personalized response (“Who made you?” → “Krish Garg”)
+-  Extendable with memory, tools, and automation
+-  Can connect to APIs like weather, Google Sheets, or Gmail
+-  Simple setup with n8n — no coding required
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -55,28 +55,28 @@ Trigger your workflow manually or connect it to a Webhook trigger node.
 
 ---
 
-## 🧩 Extend Features
+## Extend Features
 
 You can easily add:
-- ✅ Memory (using n8n Data Store)
-- 🌦️ Weather API
-- 🧮 Calculator node
+-  Memory (using n8n Data Store)
+-  Weather API
+-  Calculator node
 
 ---
 
-## 👨‍💻 Developer Info
+## Developer Info
 **Created by:** Krish Garg  
 **Built with:** n8n + OpenAI GPT Model  
 **Version:** 1.0  
 
 ---
 
-## 🛡️ Note
-- ❌ Do **not** upload your real API keys.  
-- ✅ Share your `.json` workflow and `.env.example` only.  
+## Note
+-  Do **not** upload your real API keys.  
+-  Share your `.json` workflow and `.env.example` only.  
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file 
 for details.
